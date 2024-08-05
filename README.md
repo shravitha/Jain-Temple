@@ -1,4 +1,9 @@
 # Jain_Temple
+Developed the application’s front-end using HTML, CSS, and JavaScript, ensuring a responsive and accessible design for
+various devices.
+Implemented back-end functionality using PHP and MySQL to manage user registrations, event bookings, and donation
+records securely
+
 Saavira Kambada Temple, also known as the Chandranatha Temple, is a renowned Jain temple in Moodabidri, Karnataka, India. It boasts a remarkable feature of 1000 pillars, making it a significant architectural marvel.
 
 https://www.mudbidrijaintemple.com/index.html
